@@ -1,5 +1,5 @@
 # VProfile DevOps Multi-Pipeline Project (CI/CD & Local VM Provisioning)
-
+ 
 Welcome to the **VProfile DevOps Project** repository. This project showcases the configuration, packaging, testing, and deployment pipeline variations for a multi-tier Java Spring MVC web application using modern DevOps practices. 
 
 This repository contains **three distinct versions** of the project, tailored for different environments and pipeline requirements:
